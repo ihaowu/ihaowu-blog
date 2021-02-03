@@ -2,7 +2,7 @@
 
 > 工作中～
 
-本项目是一个全栈项目，采用 [nest.js][nest] 编写后端代码， [angular] 编写视图代码，整个工程采用 [nx] 管理。
+本项目是一个全栈项目，采用 [nest.js][nest] 编写后端代码， [next.js][next] 编写视图代码，整个工程采用 [nx] 管理。
 
 ## 快速开始
 
@@ -34,4 +34,4 @@ $ open http://localhost:4200/
 
 [nx]: https://nx.dev
 [nest]: https://nestjs.com
-[angular]: https://angular.io
+[next]: https://nextjs.org/
